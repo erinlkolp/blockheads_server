@@ -1,4 +1,3 @@
 # blockheads-server
 
-TODO: Enter the cookbook description here.
-
+A Chef cookbook to install The Blockheads server on OSX.
