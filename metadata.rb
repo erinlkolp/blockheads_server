@@ -1,9 +1,9 @@
-name 'blockheads-server'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+name 'blockheads_server'
+maintainer 'Erin L. Kolp'
+maintainer_email 'erinlkolpfoss@gmail.com'
 license 'All Rights Reserved'
-description 'Installs/Configures blockheads-server'
-long_description 'Installs/Configures blockheads-server'
+description 'Installs/Configures blockheads_server'
+long_description 'Installs/Configures blockheads_server'
 version '0.1.0'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
